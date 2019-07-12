@@ -21,7 +21,6 @@ def extract(elem, tag, drop_s):
     return float(text)
 
 i = 0
-
 d = OrderedDict()
 d["time"] = time.time()
 
